@@ -1,1 +1,1 @@
-# -multi-criteria-abc-segmentation
+# Multi-Criteria ABC Segmentation
